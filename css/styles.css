@@ -1,0 +1,35 @@
+
+.jumbotron {
+  height: 200px;
+  border: 1px solid darkgrey;
+  margin-left:10px;
+  margin-top:10px;
+}
+
+.panel-heading {
+  font-weight:bold;
+  font-size:18px;
+}
+
+.left-side {
+  border-right: 1px solid #bce8f1;
+  background-color:#eee;
+  height:100vh;
+}
+
+.panel-info{
+  background-color: #f2f9fc;
+}
+
+.panel-success {
+  background-color: #f5fcf2;
+}
+
+.toprow {
+  height:auto;
+}
+
+.left-side img {
+  width:100%;
+  margin-bottom:10px;
+}
